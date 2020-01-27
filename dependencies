@@ -1,0 +1,5 @@
+dependencies {
+
+      implementation 'com.github.letschatapp:CircularImageView:1.0.0'
+      
+      }
